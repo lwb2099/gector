@@ -132,4 +132,10 @@ dmypy.json
 # PyCharm
 .idea
 
-*.sh
+#dataset
+data/datasets
+data/model
+
+#vscode
+.vscode
+
